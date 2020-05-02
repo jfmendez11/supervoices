@@ -1,0 +1,7 @@
+pydub
+python-dotenv
+requests
+pydub
+boto3
+sendgrid
+pymongo
