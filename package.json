@@ -18,7 +18,7 @@
     "delete": "^1.1.0",
     "dotenv": "^6.2.0",
     "env-cmd": "^8.0.2",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-fileupload": "^1.1.9",
     "ftp": "^0.3.10",
     "jsonwebtoken": "^8.4.0",
